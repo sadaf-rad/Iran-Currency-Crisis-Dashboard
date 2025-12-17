@@ -3,11 +3,15 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/sadaf-rad/Currency-Convertor)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/sadaf-rad/Iran-Currency-Crisis-Dashboard)
 
 > **An interactive financial analytics dashboard analyzing 14+ years of USD/IRR exchange rate data, identifying currency crisis periods and their correlation with geopolitical events.**
 
-🔗 **[Live Demo](your-streamlit-url-here)** | 📊 **[View Analysis](comprehensive_analysis.ipynb)** | 📧 **[Contact Me](mailto:your-email@example.com)**
+## 🌐 Live Dashboard
+
+**👉 [Click here to explore the interactive dashboard](https://iran-currency-crisis-dashboard-ztggdjgb3dybgnztrvvkdn.streamlit.app)**
+
+🔗 **[View Analysis Notebook](comprehensive_analysis.ipynb)** | 📧 **[Connect on LinkedIn](https://linkedin.com/in/sadaf-rad)**
 
 ---
 
